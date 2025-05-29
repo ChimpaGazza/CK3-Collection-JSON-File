@@ -1,0 +1,426 @@
+{
+  "game": "ck3",
+  "name": "more immersive than real life collection",
+  "mods": [
+    {
+      "enabled": true,
+      "displayName": "A Road Network In Vanilla",
+      "position": 1,
+      "steamId": "3349277316"
+    },
+    {
+      "enabled": true,
+      "displayName": "Auto accept indulgences",
+      "position": 2,
+      "steamId": "2687006388"
+    },
+    {
+      "enabled": true,
+      "displayName": "Auto increase control",
+      "position": 3,
+      "steamId": "2729685999"
+    },
+    {
+      "enabled": true,
+      "displayName": "Auto conversion",
+      "position": 4,
+      "steamId": "2694172949"
+    },
+    {
+      "enabled": true,
+      "displayName": "Ambitious Conquest War",
+      "position": 5,
+      "steamId": "3440630527"
+    },
+    {
+      "enabled": true,
+      "displayName": "Adventurers Don't BANKRUPT The Realm",
+      "position": 6,
+      "steamId": "3343006469"
+    },
+    {
+      "enabled": true,
+      "displayName": "Auto promote culture",
+      "position": 7,
+      "steamId": "2689410555"
+    },
+    {
+      "enabled": true,
+      "displayName": "Balance of Power UI",
+      "position": 8,
+      "steamId": "3157042775"
+    },
+    {
+      "enabled": true,
+      "displayName": "Battleground Commanders",
+      "position": 9,
+      "steamId": "3276373926"
+    },
+    {
+      "enabled": true,
+      "displayName": "Balanced Giant Face Updated",
+      "position": 10,
+      "steamId": "3378784761"
+    },
+    {
+      "enabled": true,
+      "displayName": "Battle Events",
+      "position": 11,
+      "steamId": "3287741117"
+    },
+    {
+      "enabled": true,
+      "displayName": "Better AI Education",
+      "position": 12,
+      "steamId": "2753934263"
+    },
+    {
+      "enabled": true,
+      "displayName": "Better Barbershop",
+      "position": 13,
+      "steamId": "2220326926"
+    },
+    {
+      "enabled": true,
+      "displayName": "Better camera zoom",
+      "position": 14,
+      "steamId": "2243723476"
+    },
+    {
+      "enabled": true,
+      "displayName": "Better CoA Designer",
+      "position": 15,
+      "steamId": "2766055258"
+    },
+    {
+      "enabled": true,
+      "displayName": "Better Ruler Designer",
+      "position": 16,
+      "steamId": "3275318194"
+    },
+    {
+      "enabled": true,
+      "displayName": "Better Mass Vassal Directive",
+      "position": 17,
+      "steamId": "3378093812"
+    },
+    {
+      "enabled": true,
+      "displayName": "Better Struggle UI",
+      "position": 18,
+      "steamId": "3077627057"
+    },
+    {
+      "enabled": true,
+      "displayName": "CFP + EPE Compatibility Patch",
+      "position": 19,
+      "steamId": "2996881191"
+    },
+    {
+      "enabled": true,
+      "displayName": "Big Battle View",
+      "position": 20,
+      "steamId": "3030427202"
+    },
+    {
+      "enabled": true,
+      "displayName": "CK2 Style Brighter Attributes",
+      "position": 21,
+      "steamId": "2222839530"
+    },
+    {
+      "enabled": true,
+      "displayName": "Brighter Text Colors",
+      "position": 22,
+      "steamId": "2234245906"
+    },
+    {
+      "enabled": true,
+      "displayName": "CK2 Style Colorful Lifestyle Traits",
+      "position": 23,
+      "steamId": "2224004745"
+    },
+    {
+      "enabled": true,
+      "displayName": "Clear Notifications",
+      "position": 24,
+      "steamId": "2261468688"
+    },
+    {
+      "enabled": true,
+      "displayName": "Color Picker for Clothes",
+      "position": 25,
+      "steamId": "3350459101"
+    },
+    {
+      "enabled": true,
+      "displayName": "Community Flavor Pack",
+      "position": 26,
+      "steamId": "2220098919"
+    },
+    {
+      "enabled": true,
+      "displayName": "Community Title Project",
+      "position": 27,
+      "steamId": "2216919487"
+    },
+    {
+      "enabled": true,
+      "displayName": "Culture Expanded",
+      "position": 28,
+      "steamId": "2829397295"
+    },
+    {
+      "enabled": true,
+      "displayName": "Decorous Loading Screen Pack",
+      "position": 29,
+      "steamId": "2931089429"
+    },
+    {
+      "enabled": true,
+      "displayName": "Duel Overlay",
+      "position": 30,
+      "steamId": "2636170225"
+    },
+    {
+      "enabled": true,
+      "displayName": "Ethnicities & Portraits Expanded",
+      "position": 31,
+      "steamId": "2507209632"
+    },
+    {
+      "enabled": true,
+      "displayName": "EPE Color Picker for Clothes",
+      "position": 32,
+      "steamId": "3443347486"
+    },
+    {
+      "enabled": true,
+      "displayName": "Extended Outliner",
+      "position": 33,
+      "steamId": "2219611817"
+    },
+    {
+      "enabled": true,
+      "displayName": "Faster Transitions",
+      "position": 34,
+      "steamId": "3437814875"
+    },
+    {
+      "enabled": true,
+      "displayName": "fix decisions tab performance",
+      "position": 35,
+      "steamId": "3478668605"
+    },
+    {
+      "enabled": true,
+      "displayName": "Found University",
+      "position": 36,
+      "steamId": "3465223556"
+    },
+    {
+      "enabled": true,
+      "displayName": "Historic Invasions",
+      "position": 37,
+      "steamId": "2837398670"
+    },
+    {
+      "enabled": true,
+      "displayName": "Historicity",
+      "position": 38,
+      "steamId": "3107648868"
+    },
+    {
+      "enabled": true,
+      "displayName": "Game of Thrones Soundtrack",
+      "position": 39,
+      "steamId": "3338631550"
+    },
+    {
+      "enabled": true,
+      "displayName": "Hometowns",
+      "position": 40,
+      "steamId": "3159036034"
+    },
+    {
+      "enabled": true,
+      "displayName": "Kingdom of Heaven Soundtrack",
+      "position": 41,
+      "steamId": "3385240530"
+    },
+    {
+      "enabled": true,
+      "displayName": "Holy Roman Triumph 1.16: Coronation Ceremonies",
+      "position": 42,
+      "steamId": "3118461885"
+    },
+    {
+      "enabled": true,
+      "displayName": "Knight Manager Continued",
+      "position": 43,
+      "steamId": "2974850904"
+    },
+    {
+      "enabled": true,
+      "displayName": "Mass Demand Conversion",
+      "position": 44,
+      "steamId": "2753176859"
+    },
+    {
+      "enabled": true,
+      "displayName": "Matched Eyebrow and Body Hair Colors Updated",
+      "position": 45,
+      "steamId": "3280709023"
+    },
+    {
+      "enabled": true,
+      "displayName": "Medieval Arts",
+      "position": 46,
+      "steamId": "2452585382"
+    },
+    {
+      "enabled": true,
+      "displayName": "More Background Illustrations",
+      "position": 47,
+      "steamId": "2986496756"
+    },
+    {
+      "enabled": true,
+      "displayName": "More Character Names",
+      "position": 48,
+      "steamId": "3451288368"
+    },
+    {
+      "enabled": true,
+      "displayName": "More Game Rules",
+      "position": 49,
+      "steamId": "2216850785"
+    },
+    {
+      "enabled": true,
+      "displayName": "More Cultural Names",
+      "position": 50,
+      "steamId": "2217534250"
+    },
+    {
+      "enabled": true,
+      "displayName": "More Interactive Vassals",
+      "position": 51,
+      "steamId": "2712590542"
+    },
+    {
+      "enabled": true,
+      "displayName": "Nameplates",
+      "position": 52,
+      "steamId": "2220762808"
+    },
+    {
+      "enabled": true,
+      "displayName": "Multilingual Education",
+      "position": 53,
+      "steamId": "2756456587"
+    },
+    {
+      "enabled": true,
+      "displayName": "Observer tools",
+      "position": 54,
+      "steamId": "3463951905"
+    },
+    {
+      "enabled": true,
+      "displayName": "Pervasive Crown Authority",
+      "position": 55,
+      "steamId": "2692957667"
+    },
+    {
+      "enabled": true,
+      "displayName": "Proper war headgear display",
+      "position": 56,
+      "steamId": "3311573326"
+    },
+    {
+      "enabled": true,
+      "displayName": "Real Eyes 3.0",
+      "position": 57,
+      "steamId": "3150612985"
+    },
+    {
+      "enabled": true,
+      "displayName": "Regional Immersion and Cultural Enrichment (RICE)",
+      "position": 58,
+      "steamId": "2273832430"
+    },
+    {
+      "enabled": true,
+      "displayName": "RICE + EPE Compatibility Patch",
+      "position": 59,
+      "steamId": "2553043828"
+    },
+    {
+      "enabled": true,
+      "displayName": "Show Player Opinion",
+      "position": 60,
+      "steamId": "3340687327"
+    },
+    {
+      "enabled": true,
+      "displayName": "Simple border",
+      "position": 61,
+      "steamId": "2749577487"
+    },
+    {
+      "enabled": true,
+      "displayName": "The Catholic Trinity: 1.16.0 “Chamfron\"",
+      "position": 62,
+      "steamId": "2730456007"
+    },
+    {
+      "enabled": true,
+      "displayName": "Travelers",
+      "position": 63,
+      "steamId": "3082182371"
+    },
+    {
+      "enabled": true,
+      "displayName": "Unit Packs Expanded",
+      "position": 64,
+      "steamId": "2818979385"
+    },
+    {
+      "enabled": true,
+      "displayName": "Unofficial Patch",
+      "position": 65,
+      "steamId": "2871648329"
+    },
+    {
+      "enabled": true,
+      "displayName": "VIET Events - A Flavor and Immersion Event Mod",
+      "position": 66,
+      "steamId": "2227658180"
+    },
+    {
+      "enabled": true,
+      "displayName": "Visible Disfigurement - No More Masks",
+      "position": 67,
+      "steamId": "3245958435"
+    },
+    {
+      "enabled": true,
+      "displayName": "Wandering XP from Wandering",
+      "position": 68,
+      "steamId": "3360461641"
+    },
+    {
+      "enabled": true,
+      "displayName": "[LOT] Legitimacy Over Time",
+      "position": 69,
+      "steamId": "3305687550"
+    },
+    {
+      "enabled": true,
+      "displayName": "Memento Mori - A Difficulty Overhaul",
+      "position": 70,
+      "steamId": "3488394458"
+    }
+  ]
+}
